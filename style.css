@@ -1,0 +1,255 @@
+*{
+    font-family:  'Poppins',sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+.Top-Section{
+
+    background: linear-gradient(to left,rgb(40, 39, 41),rgb(48, 48, 51));
+
+   
+}
+
+.navbar{
+    background: white !important;
+
+    
+}
+
+.navbar-nav li a{
+
+    color: black !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 6px;
+
+    
+}
+
+.Top-Section i{
+    color: black !;
+    font-size: 20px;
+    outline:  none !important;
+    border:  none !important;
+
+}
+.logo{
+    margin-left: 5px;
+    font-size:19px;
+    font-weight: bold;
+
+}
+
+li a:hover{
+
+    color: rgb(0, 0, 0) !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    opacity: 50%;
+
+    
+}
+.social-icons i{
+    margin: 10px;
+}
+
+
+.social-icons i:hover{
+    opacity: 50%;
+}
+
+.navbar-toggler{
+
+    outline: none !important;
+    border:  none !important;
+    padding: unset;
+}
+.underline{
+
+    background: white;
+    padding: 1px;
+
+}
+.underline-about{
+
+    background: black;
+    padding: 1px;
+
+}
+
+
+
+
+#main-con h1{
+    font-size: 60px ;
+}
+
+
+
+#card-icon i{
+
+    font-size: 30px;
+    color: rgb(40, 39, 41);
+    margin-bottom: 15px;
+}
+
+#serve .row{
+
+    border: 1px solid red;
+}
+
+
+
+.Service-Section{
+
+    background: linear-gradient(to left,rgb(40, 39, 41),rgb(48, 48, 51));
+}
+
+.card{
+    padding: 20px;
+
+}
+
+#btn-one{
+    background: rgb(40, 39, 41) !important;
+    outline: none;
+    border: none;
+}
+
+#btn-Two{
+
+    background: rgb(40, 39, 41) !important;
+    outline: none;
+    border: none;
+    
+
+
+}
+.head-text {
+    font-size:15px !important ;
+    background:linear-gradient( to right,rgb(37, 180, 125),rgb(0, 153, 255));
+    border-radius: 30px !important;
+    font-weight: bold;
+   
+    
+}
+
+
+.card h5{
+
+    font-size: 15px;
+}
+.logo-service i{
+
+    font-size: 40px;
+}
+.logo-service .logo{
+
+    font-size: 28px;
+    text-transform: uppercase;
+
+}
+
+.own-row{
+
+    background: linear-gradient(to left,rgb(40, 39, 41),rgb(48, 48, 51));
+
+}
+
+.meet-text{
+    font-size: 14px;
+}
+
+
+
+
+.About-Section img{
+    width: 300px;
+    margin: 20px;
+}
+.About-Section a{
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    color: white;
+    font-weight: bold;
+    background:linear-gradient( to right,rgb(37, 180, 125),rgb(0, 153, 255));
+    border-radius: 30px !important;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.top-icons i{
+    color: black;
+}
+
+.About-Section span{
+    font-size: 60px;
+    color: rgb(18, 187, 150);
+    
+}
+.contact-us{
+
+    background: linear-gradient(to left,rgb(40, 39, 41),rgb(48, 48, 51));
+
+}
+
+.contact-us ul li a{
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+    
+}
+.contact-us ul li:hover{
+
+    color: rgb(37, 180, 125);
+    
+}
+.contact-us ul li a:hover{
+
+    color: rgb(37, 180, 125) !important;
+    text-transform: capitalize;
+    font-weight: normal;
+    
+    
+}
+
+#p-box{
+    padding: 50px;
+}
+
+.logoss{
+
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 6px;
+
+}
+
+#headd{
+    color: rgb(37, 180, 125) !important;
+    font-size: 17px;
+
+
+}
+
+
+/* Javascript and jQuery  */
+
+#bg-demo{
+    background:linear-gradient( to right,rgb(235, 183, 14),rgb(204, 49, 83)) !important;
+}
+
+#bg-demo .btn{
+    background-color: rgb(255, 255, 255) !important;
+    outline: none !important;
+    border: none !important;
+    color: black;
+}
+
+
